@@ -13,6 +13,14 @@ Territory Sales Manager at OPPO Bangladesh building AI-assisted sales systems, w
 - Reporting systems and productivity tooling
 - Growing from business operations into product and software building
 
+## Featured Projects
+- [Sales Ops Command Center](https://github.com/shuv78/sales-ops-command-center)  
+  Internal dashboard concept for territory sales tracking, dealer performance, and reporting workflows.
+- [Retail Visit Report Automation](https://github.com/shuv78/retail-visit-report-automation)  
+  Python automation that converts sample retail visit data into structured daily reports.
+- [AI Sales Assistant Lab](https://github.com/shuv78/ai-sales-assistant-lab)  
+  AI workflow experiments for sales summaries, dealer follow-ups, and field report cleanup.
+
 ## Background
 I have 4+ years of experience across OPPO, Samsung, Realme, and Xiaomi, with hands-on work in territory management, retail execution, dealer relationships, and target tracking.
 
